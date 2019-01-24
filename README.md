@@ -8,7 +8,7 @@ https://simpleit.rocks/python/django/adding-users-to-your-django-project-with-cu
 
 # Installation
 
-    git clone git@github.com:marcanuy/django-custom-users.git
+    git clone https://github.com/marcanuy/django-custom-users.git
 	cd django-custom-users
 	mkvirtualenv --python /usr/bin/python3.6 ~/.virtualenvs/dcu
 	pip install -r requirements.txt
