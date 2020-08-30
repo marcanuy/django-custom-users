@@ -15,3 +15,7 @@ https://simpleit.rocks/python/django/adding-users-to-your-django-project-with-cu
 	pip install -r requirements.txt
 	./manage.py migrate
 	./manage.py runserver
+
+# Models
+
+![Models](https://raw.githubusercontent.com/marcanuy/django-custom-users/master/dcu_models.png)
