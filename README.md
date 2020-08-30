@@ -10,6 +10,8 @@ https://simpleit.rocks/python/django/adding-users-to-your-django-project-with-cu
 
     git clone https://github.com/marcanuy/django-custom-users.git
 	cd django-custom-users
-	mkvirtualenv --python /usr/bin/python3.6 ~/.virtualenvs/dcu
+	python3 -m venv ~/.virtualenvs/dcu
+	source ~/.virtualenvs/dcu/bin/activate
 	pip install -r requirements.txt
 	./manage.py migrate
+	./manage.py runserver
