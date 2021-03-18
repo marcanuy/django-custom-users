@@ -1,4 +1,4 @@
-Django==2.2.13
+Django==2.2.18
 django-extensions==2.1.2
 pydotplus==2.0.2
 pyparsing==2.2.1
